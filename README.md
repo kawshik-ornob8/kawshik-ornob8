@@ -30,7 +30,12 @@
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/kawshik-ornob8/kawshik-ornob8/main/code.gif">
 
 
-<p align="left"> <a href="https://instagram.com/iam_kawshik" target="blank"><img src="https://img.shields.io/instagram/follow/iam_kawshik?username=iam_kawshik&logo=instagram&style=for-the-badge" alt="iam_kawshik" /></a> </p>
+<p align="left"> 
+    <a href="https://instagram.com/iam_kawshik" target="blank">
+        <img src="https://img.shields.io/instagram/follow/iam_kawshik?logo=instagram&style=for-the-badge" alt="iam_kawshik" />
+    </a> 
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kawshik/project](https://sites.google.com/view/kawshik/project)
 
