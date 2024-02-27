@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
