@@ -62,23 +62,11 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" />
 <img src="https://img.shields.io/badge/AdobeXD-1E1E1E?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Mysql-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
 
-
-
-
-
-<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/AdobeXD-1E1E1E?style=for-the-badge&logo=adobexd&logoColor=white" />
-<img src="https://img.shields.io/badge/Mysql-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white" />
 
 
 
