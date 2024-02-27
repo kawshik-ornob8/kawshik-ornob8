@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kawshik Ahmed Ornob</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Kawshik Ahmed Ornob</h1>
 <h3 align="center">A passionate CSE Engineer from Bangladesh</h3>
 
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/kawshik-ornob8/kawshik-ornob8/main/code.gif">
