@@ -62,15 +62,9 @@
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
-
-
-
+<!--
 <br>
-
 <summary>📝 My GitHub Stats</summary>
 <br>
-
-[![Kawshik's github stats](https://github-readme-stats.vercel.app/api?username=kawshik-ornob8&theme=gotham)](https://github.com/kawshik-ornob8/kawshik-ornob8/blob/main/README.md)
-
-
-
+-->
+<!-- [![Kawshik's github stats](https://github-readme-stats.vercel.app/api?username=kawshik-ornob8&theme=gotham)](https://github.com/kawshik-ornob8/kawshik-ornob8/blob/main/README.md) -->
