@@ -52,15 +52,15 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe-XD-1E1E1E?style=for-the-badge&logo=adobexd&logoColor=white" />
+<img src="https://img.shields.io/badge/Mysql-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
 
