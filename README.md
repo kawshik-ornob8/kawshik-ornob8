@@ -35,7 +35,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kawshik/project](https://sites.google.com/view/kawshik/project)
 
-- 📝 I irregularly write articles on [https://www.kawshik.net/](https://www.kawshik.net/)
+<!-- - 📝 I irregularly write articles on [https://www.kawshik.net/](https://www.kawshik.net/) -->
 
 - 📫 How to reach me **kawshik.ornob8@gmail.com**
 
