@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/kawshik.ornob8/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-1DA1F2?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/kawshik.ornob8">
