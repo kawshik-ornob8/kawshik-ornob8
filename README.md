@@ -70,7 +70,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Kawshik's github stats](https://github-readme-stats.vercel.app/api?username=kawshik-ornob8&theme=gotham)](https://github.com/kawshik-ornob8/github-readme-stats)
+[![Kawshik's github stats](https://github-readme-stats.vercel.app/api?username=kawshik-ornob8&theme=gotham)](https://github.com/kawshik-ornob8/kawshik-ornob8/blob/main/README.md)
 
 
 
