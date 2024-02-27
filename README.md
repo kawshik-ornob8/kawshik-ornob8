@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" />
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+<img src="https://img.shields.io/badge/AdobeXD-1E1E1E?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" />
 
