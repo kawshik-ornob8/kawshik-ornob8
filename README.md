@@ -55,7 +55,9 @@
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
+
+
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" />
@@ -70,7 +72,7 @@
 
 
 <img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
