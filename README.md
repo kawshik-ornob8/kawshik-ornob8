@@ -17,9 +17,10 @@
 
 <a href="https://www.facebook.com/kawshik.ornob8">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    
 </a>
 <a href="https://discord.gg/iam_kawshik" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iam_kawshik" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </div>
 
