@@ -31,8 +31,8 @@
 
 
 <p align="left"> 
-    <a href="https://instagram.com/iam_kawshik" target="blank">
-        <img src="https://img.shields.io/instagram/follow/iam_kawshik?logo=instagram&style=for-the-badge" alt="iam_kawshik" />
+    <a href="https://www.linkedin.com/in/kawshik-ornob8/" target="blank">
+        <img src="https://img.shields.io/linkedin/follow/iam_kawshik?logo=linkedin&style=for-the-badge" alt="iam_kawshik" />
     </a> 
 </p>
 
