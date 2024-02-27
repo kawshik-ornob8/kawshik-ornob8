@@ -51,13 +51,9 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" />
@@ -69,15 +65,12 @@
 
 
 
+<br>
+
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Kawshik's github stats](https://github-readme-stats.vercel.app/api?username=kawshik-ornob8&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
 
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshik-ornob8&show_icons=true&locale=en&layout=compact" alt="kawshik-ornob8" /></p>
