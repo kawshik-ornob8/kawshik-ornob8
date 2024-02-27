@@ -30,13 +30,6 @@
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/kawshik-ornob8/kawshik-ornob8/main/code.gif">
 
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/kawshik-ornob8/" target="blank">
-        <img src="https://img.shields.io/linkedin/follow/iam_kawshik?logo=linkedin&style=for-the-badge" alt="iam_kawshik" />
-    </a> 
-</p>
-
-
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kawshik/project](https://sites.google.com/view/kawshik/project)
 
 <!-- - 📝 I irregularly write articles on [https://www.kawshik.net/](https://www.kawshik.net/) -->
