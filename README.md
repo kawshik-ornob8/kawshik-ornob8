@@ -46,8 +46,6 @@
 
 <br>
 <br>
-<br>
-<br>
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
