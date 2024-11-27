@@ -37,9 +37,9 @@
 - 📫 How to reach me **kawshik.ornob8@gmail.com**
 
 - 📄 Know about my experiences on google site
-- [https://sites.google.com/view/kawshik/home](https://sites.google.com/view/kawshik/home)
+  -[https://sites.google.com/view/kawshik/home](https://sites.google.com/view/kawshik/home)
 - 📄 Know about my experiences
-- [https://kawshik-ornob8.github.io/](https://kawshik-ornob8.github.io/)
+  -[https://kawshik-ornob8.github.io/](https://kawshik-ornob8.github.io/)
 
 - ⚡ Fun fact **I am Funny 🤪**
 
