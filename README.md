@@ -63,6 +63,7 @@
 <img src="https://img.shields.io/badge/AdobeXD-1E1E1E?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
 <img src="https://img.shields.io/badge/Mysql-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=java&logoColor=007396" />
 
 </div>
 <!--
