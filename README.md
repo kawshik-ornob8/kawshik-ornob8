@@ -30,14 +30,16 @@
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/kawshik-ornob8/kawshik-ornob8/main/code.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/kawshik/project](https://sites.google.com/view/kawshik/project)
+- 👨‍💻 All of my projects are available at [https://kawshik-ornob8.github.io/](https://kawshik-ornob8.github.io/)
 
 <!-- - 📝 I irregularly write articles on [https://www.kawshik.net/](https://www.kawshik.net/) -->
 
 - 📫 How to reach me **kawshik.ornob8@gmail.com**
 
-- 📄 Know about my experiences on google site  [https://sites.google.com/view/kawshik/home](https://sites.google.com/view/kawshik/home)
-- 📄 Know about my experiences  [https://kawshik-ornob8.github.io/](https://kawshik-ornob8.github.io/)
+- 📄 Know about my experiences on google site
+- [https://sites.google.com/view/kawshik/home](https://sites.google.com/view/kawshik/home)
+- 📄 Know about my experiences
+- [https://kawshik-ornob8.github.io/](https://kawshik-ornob8.github.io/)
 
 - ⚡ Fun fact **I am Funny 🤪**
 
