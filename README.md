@@ -73,12 +73,14 @@
 
 </div>
 
-###
 
 <br clear="both">
 
-<img src="https://github.com/kawshik-ornob8/kawshik-ornob8/blob/main/snake.svg" alt="Snake animation" />
-###
+<p align="center">
+  <img src="https://github.com/kawshik-ornob8/kawshik-ornob8/blob/main/snake.svg" alt="Snake animation" />
+</p>
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawshik-ornob8&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
