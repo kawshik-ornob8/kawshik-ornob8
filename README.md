@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=kawshik-ornob8&abbreviated=true)
+[![GitHub Kawshik](https://img.shields.io/github/followers/kawshik-ornob8?label=follow&style=social)](https://github.com/kawshik-ornob8)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Kawshik Ahmed Ornob</h1>
 <h3 align="center">A passionate CSE Engineer from Bangladesh</h3>
 
