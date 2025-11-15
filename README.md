@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="coding" width="100%" height="300px" src="https://raw.githubusercontent.com/kawshik-ornob8/kawshik-ornob8/main/zeronob.gif">
+</p>
+
 ![](https://komarev.com/ghpvc/?username=kawshik-ornob8&abbreviated=true)
 [![GitHub Kawshik](https://img.shields.io/github/followers/kawshik-ornob8?label=follow&style=social)](https://github.com/kawshik-ornob8)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Kawshik Ahmed Ornob</h1>
